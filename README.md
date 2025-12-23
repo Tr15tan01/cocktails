@@ -1,3 +1,7 @@
+# This is my legacy project, working fine
+
+Made with CRA
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
